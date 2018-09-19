@@ -1,12 +1,4 @@
 #!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Sep 17 13:54:38 2018
-
-@author: ece-student
-"""
-
-#!/usr/bin/env python
 # encoding: utf-8
 #Author - Bowen Jia
 
