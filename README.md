@@ -5,3 +5,5 @@
 2.You can change the account to which you want in get_all_tweets("@xxx").
 
 3.To run googlevison, you need to run export GOOGLE_APPLICATION_CREDENTIALS.
+
+4.To get the output video directly, just run the combine.py.
