@@ -72,24 +72,17 @@ def convert_video_with_label():
             print(label.description)
     #       print(label.score)
 
-
         font=ImageFont.truetype("/usr/share/fonts/truetype/freefont/FreeMono.ttf", 30)
 
         im1=Image.open(file_name)
-
-
-        draw=ImageDraw.Draw(im1)
-
-        j=0
-
-        for label in labels:
-
-            draw.text((0,j),label.description,(255,255,0),font=font)
-
-            j+=30
         
+        draw=ImageDraw.Draw(im1
+        j=0
+        for label in labels:
+            draw.text((0,j),label.description,(255,255,0),font=font)
+            j+=30
+ 
         draw=ImageDraw.Draw(im1)
-
         im1.save("%d.jpg"%(i))
 
 
@@ -97,6 +90,7 @@ if __name__ == '__main__':
     #pass in the username of the account you want to downloadc
     get_all_tweets("@BostonDotCom")
 
+    #convert the pics to labeled video
     convert_video_with_label()
 
     #generate Labeled video
