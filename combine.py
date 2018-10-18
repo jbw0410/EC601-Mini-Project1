@@ -18,10 +18,10 @@ from PIL import ImageDraw
 from PIL import ImageFont
 
 # Twitter API credentials
-consumer_key = "OiYKweAcMocfxfZ0Y3aSfKhzU"                      #"Enter the consumer_key"
-consumer_secret = "BJ9A2cCeG3CLfC0PbOrMwcnfn5gmL31KfAQonyC1FVg2CJXr7d"                   #"Enter the consumer_secret"
-access_key = "1039222573165359104-W9pvn6wBc0qwsOKcogTPoaj8eFbsql"                        #"Enter the access_key"
-access_secret = "f46GcE619ooEtlAKWKDse0Go2x68xHTymq3iP02QEG9Mg"                     #"Enter the access_secret"
+consumer_key = ""                      #"Enter the consumer_key"
+consumer_secret = ""                   #"Enter the consumer_secret"
+access_key = ""                        #"Enter the access_key"
+access_secret = ""                     #"Enter the access_secret"
 
 
 def get_all_tweets(screen_name):    
