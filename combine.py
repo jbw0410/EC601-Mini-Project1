@@ -100,4 +100,4 @@ if __name__ == '__main__':
     convert_video_with_label()
 
     #generate Labeled video
-    os.system("ffmpeg -r 1 -f image2 -i %d.jpg  Boston2.mp4")
+    os.system("ffmpeg -r 1 -f image2 -i %d.jpg  Boston.mp4")
