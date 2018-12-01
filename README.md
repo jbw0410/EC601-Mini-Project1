@@ -11,3 +11,4 @@
 #Mini3-db
 
 try database.
+implement new functions with mysql &mangodb.
