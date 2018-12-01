@@ -8,7 +8,8 @@
 
 4.To get the output video directly, just run the combine.py.
 
-#Mini3-db
+
+Mini3-db
 
 try database.
 
