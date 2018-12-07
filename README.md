@@ -10,7 +10,8 @@
 
 
 Mini3-db
+--------
 
-try database.
+first experience of using database.
 
-implement new functions with mysql &mangodb.
+implement new functions to mini1-project with mysql &mangodb.
