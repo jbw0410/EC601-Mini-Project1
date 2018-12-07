@@ -1,4 +1,12 @@
-#mini3-database
+mini3-database
+=======
 
-##mysql 
+mysql
+------
+mangodb
+------
+
+
+cereate datsabase to store user info  using mysql. 
+e.g.
 ![Image text]()
