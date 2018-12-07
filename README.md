@@ -15,3 +15,8 @@ Mini3-db
 first experience of using database.
 
 implement new functions to mini1-project with mysql &mangodb.
+
+Search for certain words and retrieve which user/session that has this work in it. 
+For example, search for ‘basketball”, and get results of which user had Basketball in their sessions.
+Number of images per feed.
+Most popular descriptors.
